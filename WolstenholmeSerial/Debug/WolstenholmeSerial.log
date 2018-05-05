@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\facultate\aniv\semii\wolstenholmeserial\wolstenholmeserial\source.cpp(91): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+  e:\facultate\aniv\semii\wolstenholmeserial\wolstenholmeserial\source.cpp(91): note: consider using '%d' in the format string
+  e:\facultate\aniv\semii\wolstenholmeserial\wolstenholmeserial\source.cpp(91): note: consider using '%Id' in the format string
+  e:\facultate\aniv\semii\wolstenholmeserial\wolstenholmeserial\source.cpp(91): note: consider using '%I32d' in the format string
+e:\facultate\aniv\semii\wolstenholmeserial\wolstenholmeserial\source.cpp(43): warning C4101: 'r': unreferenced local variable
+  WolstenholmeSerial.vcxproj -> E:\Facultate\AnIV\SemII\WolstenholmeSerial\Debug\WolstenholmeSerial.exe
